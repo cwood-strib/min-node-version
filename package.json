@@ -1,0 +1,22 @@
+{
+  "name": "min-node-version",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cwood-strib/min-node-version.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cwood-strib/min-node-version/issues"
+  },
+  "homepage": "https://github.com/cwood-strib/min-node-version#readme",
+  "dependencies": {
+    "semver": "^7.3.7"
+  }
+}
